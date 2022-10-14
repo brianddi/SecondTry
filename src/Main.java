@@ -41,6 +41,7 @@ public class Main {
 
         /*Am scris in 2 variante pt ca nu stiu care e cea corecta, inca nu am inteles cum se foloseste Java*/
 
+        //Lab 10 - lucrat la curs
 
         int x = 2;
         int y = 5;
@@ -77,4 +78,25 @@ public class Main {
         float result = second / first;
         return result;
     }
+
+    /*Tema lab 10*/ {
+        int a1 = 5;
+        int b1 = 7;
+        float c1 = sum(a1, b1);
+        System.out.println(c1);}
+
+     public static float sum(float first, float second); {
+            float result = first + second;
+            return result; }
+
+    public static void main(String[] args) {
+        MyName = "Diana Andreea";
+        System.out.println("MyName");
+
+
+
+
 }
+
+
+
