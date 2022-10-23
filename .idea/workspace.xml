@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79536b73-272d-4e07-b48e-0ddb76d00eea" name="Changes" comment="tema lab 10">
-      <change afterPath="$PROJECT_DIR$/src/AnimalRrescue/Adopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalRrescue/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalRrescue/Dog.java" afterDir="false" />
+    <list default="true" id="79536b73-272d-4e07-b48e-0ddb76d00eea" name="Changes" comment="LogicalOperations">
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,42 @@
       <option name="project" value="LOCAL" />
       <updated>1665773665322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tema lab 11">
+      <created>1666564377246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666564377246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tema lab 11">
+      <created>1666564414048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666564414048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tema lab 11">
+      <created>1666564599612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666564599612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Calculator">
+      <created>1666565210608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666565210608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LogicalOperations">
+      <created>1666565245297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666565245297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +147,9 @@
     <MESSAGE value="Second commit - second try" />
     <MESSAGE value="tema" />
     <MESSAGE value="tema lab 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="tema lab 10" />
+    <MESSAGE value="tema lab 11" />
+    <MESSAGE value="Calculator" />
+    <MESSAGE value="LogicalOperations" />
+    <option name="LAST_COMMIT_MESSAGE" value="LogicalOperations" />
   </component>
 </project>
